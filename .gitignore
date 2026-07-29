@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos treinados
+models/
+
+# Resultados gerados
+outputs/
+
+# Arquivos temporários
+*.log
